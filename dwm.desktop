@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=dwm
+Comment=The comment you want to appear when hovered
+Exec=dwm-start.bash
+Type=Application
